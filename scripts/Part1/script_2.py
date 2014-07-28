@@ -57,7 +57,7 @@ orilist = [0,1]*(len(imlist)/2)
 # Define trial start text
 text = "Press spacebar to start the trial"
 
-# Define a bitmap stimulus (contents can still change)
+# Define the bitmap stimuli (contents can still change)
 # Define a bubble (position and size can still change)
 
 
@@ -87,7 +87,7 @@ for trial in trials:
     
     # Wait for a spacebar press to start the trial, or escape to quit
     
-    # Set the image filename, set the orientation   
+    # Set the images, set the orientation   
     trial['im']
     trial['ori']
     
@@ -109,6 +109,7 @@ for trial in trials:
     if response:
         if escape_pressed:
             # Escape press = quit the experiment
+            break
         elif spacebar_pressed:
             # Spacebar press = correct change detection; register response time
             acc = 1

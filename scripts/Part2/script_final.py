@@ -83,10 +83,12 @@ start_message = visual.TextStim(win,
                                 text="Press spacebar to start the trial",
                                 color='red', height=20)
 
-# Define a bitmap stimulus (contents can still change)
-bitmap = visual.SimpleImageStim(win, 
-                                image=os.path.join(impath, imlist[0]+asfx))
-
+# Define two bitmap stimuli (contents can still change)
+bitmap1 = visual.SimpleImageStim(win, 
+                                 image=os.path.join(impath, imlist[0]+asfx))
+bitmap2 = visual.SimpleImageStim(win, 
+                                 image=os.path.join(impath, imlist[0]+bsfx))
+                                
 # Define a bubble (position and size can still change)
 bubble = visual.Circle(win, fillColor='black', lineColor='black')
 
@@ -125,31 +127,34 @@ for trial in trials:
     
     # Wait for a spacebar press to start the trial, or escape to quit
     keys = event.waitKeys(keyList=['space', 'escape'])
-    if 'escape' in keys:
-        core.quit()
 
-    # Set the image filename
+    # Set the images, set the orientation
     im_fname = os.path.join(impath, trial['im'])
-    
-    # Set the orientation
-    bitmap.setFlipHoriz(trial['ori'])
+    bitmap1.setImage(im_fname + asfx)
+    bitmap1.setFlipHoriz(trial['ori'])
+    bitmap2.setImage(im_fname + bsfx)
+    bitmap2.setFlipHoriz(trial['ori'])
+    bitmap = bitmap1
 
     # Set the clocks to 0
     change_clock.reset()
     rt_clock.reset()
 
     # Empty the keypresses list
-    keys = []  
+    # Leave an 'escape' press in for immediate exit
+    if 'space' in keys:
+        keys = []  
     
     # Start the trial
     # Stop trial if spacebar or escape has been pressed, or if 30s have passed
     while not keys and rt_clock.getTime() < timelimit: 
         
         # Switch the image
-        if bitmap.image == im_fname + asfx:
-            bitmap.setImage(im_fname + bsfx)
+        if bitmap == bitmap1:
+            bitmap = bitmap2
         else:
-            bitmap.setImage(im_fname + asfx)
+            bitmap = bitmap1
+        
         bitmap.draw()
 
         # Draw bubbles of increasing radius at random positions                
@@ -174,7 +179,7 @@ for trial in trials:
     if keys:
         if 'escape' in keys:
             # Escape press = quit the experiment
-            core.quit()
+            break
         else:
             # Spacebar press = correct change detection; register response time
             acc = 1
@@ -184,6 +189,7 @@ for trial in trials:
         # No press = failed change detection; maximal response time
         acc = 0
         rt = timelimit
+    
         
     # Add the current trial's data to the TrialHandler
     trials.addData('rt', rt)
@@ -200,4 +206,4 @@ for trial in trials:
 trials.saveAsWideText(data_fname + '.csv', delim=',')
 
 # Quit the experiment
-core.quit()
+win.close()
