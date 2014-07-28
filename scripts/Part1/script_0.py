@@ -7,7 +7,7 @@
 # image names without the suffixes                   1,2,3,4,5,6
 # suffix for the first image                         a.jpg
 # suffix for the second image                        b.jpg
-# screen size in pixels                              1024x768
+# screen size in pixels                              1200x800
 # image freezing time in seconds                     30
 # image changing time in seconds                     0.5
 # number of bubbles overlayed on the image           40

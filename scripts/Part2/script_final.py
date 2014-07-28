@@ -16,7 +16,7 @@ impath = 'images'                   # directory where images can be found
 imlist = ['1','2','3','4','5','6']  # image names without the suffixes
 asfx = 'a.jpg'                      # suffix for the first image
 bsfx = 'b.jpg'                      # suffix for the second image
-scrsize = (1024,768)                # screen size in pixels
+scrsize = (1200,800)                # screen size in pixels
 timelimit = 30                      # image freezing time in seconds
 changetime = .5                     # image changing time in seconds
 n_bubbles = 40                      # number of bubbles overlayed on the image
@@ -143,7 +143,7 @@ for trial in trials:
     
     # Start the trial
     # Stop trial if spacebar or escape has been pressed, or if 30s have passed
-    while not keys or rt_clock.getTime() < timelimit: 
+    while not keys and rt_clock.getTime() < timelimit: 
         
         # Switch the image
         if bitmap.image == im_fname + asfx:
