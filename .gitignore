@@ -1,0 +1,4 @@
+*.py[cod]
+*.py~
+.ipynb_checkpoints/
+*.zip
