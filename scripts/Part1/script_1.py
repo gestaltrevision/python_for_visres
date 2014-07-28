@@ -51,7 +51,7 @@ orilist = [0,1]*(len(imlist)/2)
 # Define trial start text
 text = "Press spacebar to start the trial"
 
-# Define a bitmap stimulus (contents can still change)
+# Define the bitmap stimuli (contents can still change)
 # Define a bubble (position and size can still change)
 
 

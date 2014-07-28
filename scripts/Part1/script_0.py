@@ -41,7 +41,7 @@
 
 # Open a window
 # Define trial start text
-# Define a bitmap stimulus (contents can still change)
+# Define the bitmap stimuli (contents can still change)
 # Define a bubble (position and size can still change)
 
 

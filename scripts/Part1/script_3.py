@@ -70,7 +70,7 @@ rnd.shuffle(orilist)
 # Define trial start text
 text = "Press spacebar to start the trial"
 
-# Define a bitmap stimulus (contents can still change)
+# Define the bitmap stimuli (contents can still change)
 # Define a bubble (position and size can still change)
 
 
@@ -99,10 +99,8 @@ for trial in trials:
     
     # Wait for a spacebar press to start the trial, or escape to quit
     
-    # Set the image filename
+    # Set the images, set the orientation
     im_fname = os.path.join(impath, trial['im'])
-    
-    # Set the orientation   
     trial['ori']
     
     # Empty the keypresses list
@@ -130,6 +128,7 @@ for trial in trials:
     if response:
         if escape_pressed:
             # Escape press = quit the experiment
+            break
         elif spacebar_pressed:
             # Spacebar press = correct change detection; register response time
             acc = 1
