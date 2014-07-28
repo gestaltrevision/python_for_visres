@@ -1,5 +1,9 @@
 # EXERCISE 1: Try to compute the BMI of each subject, as well as the average BMI across subjects
 # BMI = weight/(length/100)**2
+subj_length = [180.0,165.0,190.0,172.0,156.0]
+subj_weight = [75.0,60.0,83.0,85.0,62.0]
+subj_bmi = []
+
 n = len(subj_length)
 summed = 0.
 for subj in range(n):
@@ -12,6 +16,9 @@ print summed/n
 # EXERCISE 2: Try to complete the program now!
 # Hint: np.mean() computes the mean of an ndarray
 # Note that unlike MATLAB, Python does not need the '.' before elementwise operators
+import numpy as np
+subj_length = np.array([180.0,165.0,190.0,172.0,156.0])
+subj_weight = np.array([75.0,60.0,83.0,85.0,62.0])
 subj_bmi = subj_weight/(subj_length/100)**2 
 mean_bmi = np.mean(subj_bmi)
 print subj_bmi
@@ -59,13 +66,23 @@ print np.vstack((np.mean(arr,1), np.mean(arr,0)))
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Create x and y coordinates
+# Step 1: Define the 1D coordinate values
+# Tip: use 100 equally spaced values between -np.pi and np.pi
 vals = np.linspace(-np.pi, np.pi, 100)
+
+# Step 2: Create the 2D x and y coordinate arrays
+# Tip: use np.meshgrid()
 x,y = np.meshgrid(vals, vals)
 
-# Make grating, gaussian, gabor
+# Step 3: Create the grating
+# Tip: Use a frequency of 10
 grating = np.sin(x*10)
+
+# Step 4: Create the Gaussian
+# Tip: use np.exp() to compute a power of e
 gaussian = np.exp(-((x**2)+(y**2))/2)
+
+# Step 5: Create the Gabor
 gabor = grating*gaussian
 
 # Visualize your result
@@ -81,7 +98,6 @@ plt.show()
 
 
 # EXERCISE 7: Vectorize the above program
-
 # You get these lines for free...
 import numpy as np
 throws = np.random.randint(1,7,(5000,2000))
@@ -149,8 +165,9 @@ for n,fct in enumerate([1,2,4]):
 
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib.patches
 
-# X-axos values
+# X-axis values
 x = np.linspace(0,2*np.pi,1000)
 
 # Figure and Axes creation
