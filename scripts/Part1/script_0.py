@@ -61,7 +61,7 @@
 # Run through the trials. On each trial:
 #   - Display trial start text
 #   - Wait for a spacebar press to start the trial, or escape to quit
-#   - Set the image filename, set the orientation
+#   - Set the images, set the orientation
 #   - Switch the image every 0.5s, and:
 #        - Draw bubbles of increasing radius at random positions
 #        - Listen for a spacebar or escape press

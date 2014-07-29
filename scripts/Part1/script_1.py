@@ -94,6 +94,7 @@ for trial in trials:
     if response:
         if escape_pressed:
             # Escape press = quit the experiment
+            break
         elif spacebar_pressed:
             # Spacebar press = correct change detection; register response time
     else:
