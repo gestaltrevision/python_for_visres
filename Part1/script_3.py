@@ -16,7 +16,7 @@ impath = 'images'                   # directory where images can be found
 imlist = ['1','2','3','4','5','6']  # image names without the suffixes
 asfx = 'a.jpg'                      # suffix for the first image
 bsfx = 'b.jpg'                      # suffix for the second image
-scrsize = (600,400)                 # screen size in pixels
+scrsize = (1200,800)                # screen size in pixels
 timelimit = 30                      # image freezing time in seconds
 changetime = .5                     # image changing time in seconds
 n_bubbles = 40                      # number of bubbles overlayed on the image
@@ -114,7 +114,7 @@ for trial in trials:
         
         # Draw bubbles of increasing radius at random positions
         for radius in range(n_bubbles):  
-            radius
+            radius/2.
             pos = ((rnd.random()-.5) * scrsize[0],
                    (rnd.random()-.5) * scrsize[1] )
 
