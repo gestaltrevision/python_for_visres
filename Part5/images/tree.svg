@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="570"
+   id="svg2987"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="project_tree.svg">
+  <defs
+     id="defs2989" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="532.77932"
+     inkscape:cy="-1.39306"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2995"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0px"
+       originy="-480px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2992">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2.3621826)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3203"
+       width="250"
+       height="570"
+       x="0"
+       y="2.3621826"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="M 50,98.286989 H 82 L 80,118.28699 H 52 L 50,98.286989 z m 29,-4 1,2 H 52 l 2,-4 h 11 l 1,2 h 13 z"
+       id="path4"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 36,39.761597 6,-16 H 16 l -6,16 z m -22,-18 -4,18 v -26 h 9 l 4,4 h 13 v 4 z"
+       id="path4-7"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="48.390625"
+       y="33.836792"
+       id="text3022"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024"
+         x="48.390625"
+         y="33.836792"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">project</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="69.328125"
+       y="74.424683"
+       id="text3022-4"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-0"
+         x="69.328125"
+         y="74.424683"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">exp1</tspan></text>
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 56,80.144409 6,-16 H 36 l -6,16 z m -22,-18 -4,18 v -26 h 9 l 4,4 h 13 v 4 z"
+       id="path4-7-9"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="90"
+       y="112.36218"
+       id="text3022-48"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-8"
+         x="90"
+         y="112.36218"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">analysis</tspan></text>
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 50,138.0907 h 32 l -2,20 H 52 l -2,-20 z m 29,-4 1,2 H 52 l 2,-4 h 11 l 1,2 h 13 z"
+       id="path4-2"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="90"
+       y="154.94812"
+       id="text3022-48-4"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-8-5"
+         x="90"
+         y="154.94812"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">data</tspan></text>
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 50,178.28699 h 32 l -2,20 H 52 l -2,-20 z m 29,-4 1,2 H 52 l 2,-4 h 11 l 1,2 h 13 z"
+       id="path4-5"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="90"
+       y="192.36218"
+       id="text3022-48-1"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-8-7"
+         x="90"
+         y="192.36218"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">logs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="69.328125"
+       y="234.42468"
+       id="text3022-4-1"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-0-1"
+         x="69.328125"
+         y="234.42468"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">exp2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="69.328125"
+       y="274.38367"
+       id="text3022-4-1-2"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-0-1-7"
+         x="69.328125"
+         y="274.38367"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">scripts</tspan></text>
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 56,280.14441 6,-16 H 36 l -6,16 z m -22,-18 -4,18 v -26 h 9 l 4,4 h 13 v 4 z"
+       id="path4-7-9-5-6"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 30,220.14441 h 32 l -2,20 H 32 l -2,-20 z m 29,-4 1,2 H 32 l 2,-4 h 11 l 1,2 h 13 z"
+       id="path4-5-1"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="88"
+       y="315.16589"
+       id="text3022-48-2"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-8-3"
+         x="88"
+         y="315.16589"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">__init__.py</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="89.25"
+       y="355.21179"
+       id="text3022-48-4-2"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-8-5-1"
+         x="89.25"
+         y="355.21179"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">computer.py</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="89.328125"
+       y="395.47839"
+       id="text3022-48-1-8"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-8-7-5"
+         x="89.328125"
+         y="395.47839"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">exp1.py</tspan></text>
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 62.001,310.0907 -2,-2 -6,6 6,6 2,-2 -4,-4 z m 4,8 2,2 6,-6 -6,-6 -2,2 4,4 z m 10.232,-19.768 -4.465,-4.464 c -0.972,-0.972 -2.893,-1.768 -4.268,-1.768 h -15 c -1.375,0 -2.5,1.125 -2.5,2.5 v 27 c 0,1.375 1.125,2.5 2.5,2.5 h 23 c 1.375,0 2.5,-1.125 2.5,-2.5 v -19 c 0,-1.375 -0.796,-3.296 -1.768,-4.268 z m -1.414,1.414 c 0.098,0.098 0.195,0.218 0.29,0.354 h -5.108 v -5.108 c 0.136,0.095 0.256,0.192 0.354,0.29 l 4.465,4.464 z m 1.182,21.854 c 0,0.271 -0.229,0.5 -0.5,0.5 h -23 c -0.271,0 -0.5,-0.229 -0.5,-0.5 v -27 c 0,-0.271 0.229,-0.5 0.5,-0.5 h 15 c 0.151,0 0.32,0.019 0.5,0.053 v 7.947 h 7.947 c 0.034,0.18 0.053,0.349 0.053,0.5 v 19 z"
+       id="path4-6"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 62.001,350.36218 -2,-2 -6,6 6,6 2,-2 -4,-4 z m 4,8 2,2 6,-6 -6,-6 -2,2 4,4 z m 10.232,-19.768 -4.465,-4.464 c -0.972,-0.972 -2.893,-1.768 -4.268,-1.768 h -15 c -1.375,0 -2.5,1.125 -2.5,2.5 v 27 c 0,1.375 1.125,2.5 2.5,2.5 h 23 c 1.375,0 2.5,-1.125 2.5,-2.5 v -19 c 0,-1.375 -0.796,-3.296 -1.768,-4.268 z m -1.414,1.414 c 0.098,0.098 0.195,0.218 0.29,0.354 h -5.108 v -5.108 c 0.136,0.095 0.256,0.192 0.354,0.29 l 4.465,4.464 z m 1.182,21.854 c 0,0.271 -0.229,0.5 -0.5,0.5 h -23 c -0.271,0 -0.5,-0.229 -0.5,-0.5 v -27 c 0,-0.271 0.229,-0.5 0.5,-0.5 h 15 c 0.151,0 0.32,0.019 0.5,0.053 v 7.947 h 7.947 c 0.034,0.18 0.053,0.349 0.053,0.5 v 19 z"
+       id="path4-8"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 62.001,390.36218 -2,-2 -6,6 6,6 2,-2 -4,-4 z m 4,8 2,2 6,-6 -6,-6 -2,2 4,4 z m 10.232,-19.768 -4.465,-4.464 c -0.972,-0.972 -2.893,-1.768 -4.268,-1.768 h -15 c -1.375,0 -2.5,1.125 -2.5,2.5 v 27 c 0,1.375 1.125,2.5 2.5,2.5 h 23 c 1.375,0 2.5,-1.125 2.5,-2.5 v -19 c 0,-1.375 -0.796,-3.296 -1.768,-4.268 z m -1.414,1.414 c 0.098,0.098 0.195,0.218 0.29,0.354 h -5.108 v -5.108 c 0.136,0.095 0.256,0.192 0.354,0.29 l 4.465,4.464 z m 1.182,21.854 c 0,0.271 -0.229,0.5 -0.5,0.5 h -23 c -0.271,0 -0.5,-0.229 -0.5,-0.5 v -27 c 0,-0.271 0.229,-0.5 0.5,-0.5 h 15 c 0.151,0 0.32,0.019 0.5,0.053 v 7.947 h 7.947 c 0.034,0.18 0.053,0.349 0.053,0.5 v 19 z"
+       id="path4-27"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="89.328133"
+       y="435.47839"
+       id="text3022-48-1-8-9"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-8-7-5-5"
+         x="89.328133"
+         y="435.47839"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">exp2.py</tspan></text>
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 62.001,430.36218 -2,-2 -6,6 6,6 2,-2 -4,-4 z m 4,8 2,2 6,-6 -6,-6 -2,2 4,4 z m 10.232,-19.768 -4.465,-4.464 c -0.972,-0.972 -2.893,-1.768 -4.268,-1.768 h -15 c -1.375,0 -2.5,1.125 -2.5,2.5 v 27 c 0,1.375 1.125,2.5 2.5,2.5 h 23 c 1.375,0 2.5,-1.125 2.5,-2.5 v -19 c 0,-1.375 -0.796,-3.296 -1.768,-4.268 z m -1.414,1.414 c 0.098,0.098 0.195,0.218 0.29,0.354 h -5.108 v -5.108 c 0.136,0.095 0.256,0.192 0.354,0.29 l 4.465,4.464 z m 1.182,21.854 c 0,0.271 -0.229,0.5 -0.5,0.5 h -23 c -0.271,0 -0.5,-0.229 -0.5,-0.5 v -27 c 0,-0.271 0.229,-0.5 0.5,-0.5 h 15 c 0.151,0 0.32,0.019 0.5,0.053 v 7.947 h 7.947 c 0.034,0.18 0.053,0.349 0.053,0.5 v 19 z"
+       id="path4-27-4"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="68"
+       y="475.16589"
+       id="text3022-48-2-3"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-8-3-1"
+         x="68"
+         y="475.16589"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">__init__.py</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="69.25"
+       y="518.2196"
+       id="text3022-48-4-2-2"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-8-5-1-3"
+         x="69.25"
+         y="518.2196"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">run.bat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#059327;fill-opacity:0;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"
+       x="69.328125"
+       y="552.83972"
+       id="text3022-48-1-8-3"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900"><tspan
+         sodipodi:role="line"
+         id="tspan3024-8-7-5-4"
+         x="69.328125"
+         y="552.83972"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">run.py</tspan></text>
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 42.001,470.0907 -2,-2 -6,6 6,6 2,-2 -4,-4 z m 4,8 2,2 6,-6 -6,-6 -2,2 4,4 z m 10.232,-19.768 -4.465,-4.464 c -0.972,-0.972 -2.893,-1.768 -4.268,-1.768 h -15 c -1.375,0 -2.5,1.125 -2.5,2.5 v 27 c 0,1.375 1.125,2.5 2.5,2.5 h 23 c 1.375,0 2.5,-1.125 2.5,-2.5 v -19 c 0,-1.375 -0.796,-3.296 -1.768,-4.268 z m -1.414,1.414 c 0.098,0.098 0.195,0.218 0.29,0.354 h -5.108 v -5.108 c 0.136,0.095 0.256,0.192 0.354,0.29 l 4.465,4.464 z m 1.182,21.854 c 0,0.271 -0.229,0.5 -0.5,0.5 h -23 c -0.271,0 -0.5,-0.229 -0.5,-0.5 v -27 c 0,-0.271 0.229,-0.5 0.5,-0.5 h 15 c 0.151,0 0.32,0.019 0.5,0.053 v 7.947 h 7.947 c 0.034,0.18 0.053,0.349 0.053,0.5 v 19 z"
+       id="path4-6-1"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 42.001,510.36218 -2,-2 -6,6 6,6 2,-2 -4,-4 z m 4,8 2,2 6,-6 -6,-6 -2,2 4,4 z m 10.232,-19.768 -4.465,-4.464 c -0.972,-0.972 -2.893,-1.768 -4.268,-1.768 h -15 c -1.375,0 -2.5,1.125 -2.5,2.5 v 27 c 0,1.375 1.125,2.5 2.5,2.5 h 23 c 1.375,0 2.5,-1.125 2.5,-2.5 v -19 c 0,-1.375 -0.796,-3.296 -1.768,-4.268 z m -1.414,1.414 c 0.098,0.098 0.195,0.218 0.29,0.354 h -5.108 v -5.108 c 0.136,0.095 0.256,0.192 0.354,0.29 l 4.465,4.464 z m 1.182,21.854 c 0,0.271 -0.229,0.5 -0.5,0.5 h -23 c -0.271,0 -0.5,-0.229 -0.5,-0.5 v -27 c 0,-0.271 0.229,-0.5 0.5,-0.5 h 15 c 0.151,0 0.32,0.019 0.5,0.053 v 7.947 h 7.947 c 0.034,0.18 0.053,0.349 0.053,0.5 v 19 z"
+       id="path4-8-1"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 42.001,550.36218 -2,-2 -6,6 6,6 2,-2 -4,-4 z m 4,8 2,2 6,-6 -6,-6 -2,2 4,4 z m 10.232,-19.768 -4.465,-4.464 c -0.972,-0.972 -2.893,-1.768 -4.268,-1.768 h -15 c -1.375,0 -2.5,1.125 -2.5,2.5 v 27 c 0,1.375 1.125,2.5 2.5,2.5 h 23 c 1.375,0 2.5,-1.125 2.5,-2.5 v -19 c 0,-1.375 -0.796,-3.296 -1.768,-4.268 z m -1.414,1.414 c 0.098,0.098 0.195,0.218 0.29,0.354 h -5.108 v -5.108 c 0.136,0.095 0.256,0.192 0.354,0.29 l 4.465,4.464 z m 1.182,21.854 c 0,0.271 -0.229,0.5 -0.5,0.5 h -23 c -0.271,0 -0.5,-0.229 -0.5,-0.5 v -27 c 0,-0.271 0.229,-0.5 0.5,-0.5 h 15 c 0.151,0 0.32,0.019 0.5,0.053 v 7.947 h 7.947 c 0.034,0.18 0.053,0.349 0.053,0.5 v 19 z"
+       id="path4-27-3"
+       inkscape:export-filename="/home/qbilius/Dropbox/experiments/psychopy_ext/docs/paper/revision/figure2.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4069"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
+         id="flowRegion4071"><rect
+           id="rect4073"
+           width="532.85712"
+           height="671.42859"
+           x="-148.57143"
+           y="-54.780674" /></flowRegion><flowPara
+         id="flowPara4075" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5510"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#c95039;fill-opacity:1;stroke:#c95039;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
+         id="flowRegion5512"><rect
+           id="rect5514"
+           width="393.57144"
+           height="401.42856"
+           x="311.42856"
+           y="698.07648" /></flowRegion><flowPara
+         id="flowPara5516" /></flowRoot>    <path
+       style="fill:#c95039;fill-opacity:1;stroke:#c95039;stroke-width:5.05076265;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d=""
+       id="path4007"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#c95039;fill-opacity:1;stroke:#c95039;stroke-width:1.07142854;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d=""
+       id="path4033"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
