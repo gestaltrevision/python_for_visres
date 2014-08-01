@@ -114,7 +114,7 @@ for trial in trials:
         
         # Draw bubbles of increasing radius at random positions
         for radius in range(n_bubbles):  
-            radius
+            radius/2.
             pos = ((rnd.random()-.5) * scrsize[0],
                    (rnd.random()-.5) * scrsize[1] )
 
