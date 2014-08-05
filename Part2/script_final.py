@@ -145,7 +145,7 @@ for trial in trials:
 
     # Start the trial
     # Stop trial if spacebar or escape has been pressed, or if 30s have passed
-    while not keys and rt_clock.getTime() < timelimit:
+    while len(keys) == 0 and rt_clock.getTime() < timelimit:
 
         # Switch the image
         if bitmap == bitmap1:
@@ -170,7 +170,7 @@ for trial in trials:
         change_clock.reset()
         while change_clock.getTime() <= changetime:
             keys = event.getKeys(keyList=['space','escape'])
-            if keys:
+            if len(keys) > 0:
                 break
 
     # Analyze the keypress
