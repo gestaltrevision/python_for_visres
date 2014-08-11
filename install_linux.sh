@@ -4,6 +4,8 @@ sudo apt-get install python-pip python-numpy python-scipy python-imaging python-
 sudo apt-get install psychopy spyder ipython-notebook
 sudo apt-get install python-pandas python-docutils python-nibabel python-mvpa2 
 
+sudo apt-get install libjpeg-dev libtk8.6
+
 sudo pip install pillow
 sudo pip install seaborn svgwrite
 sudo pip install psychopy_ext 
