@@ -158,6 +158,7 @@ mod_check('docutils', 'Docutils: documentation utilities')
 mod_check('svgwrite', 'Svgwrite: create svg images')
 mod_check('pandas', 'Pandas: data analysis toolkit', '0.12')
 mod_check('nibabel', 'NiBabel: access neuroimaging files')
+mod_check('h5py', 'h5py: store huge amounts of numerical data')
 mod_check('mvpa2', 'PyMVPA: fMRI MVPA package', '2.3')
 mod_check('PIL', 'Pillow: handle images', None, None, test_PIL)
 mod_check('psychopy', 'PsychoPy: build experiments', '1.79.01', None, test_psychopy)
@@ -299,12 +300,14 @@ reqs = [{'sys':2,
          'numpy':2,
          'psychopy_ext':2,
          'nibabel':2,
+         'h5py':2,
          'mvpa2':2},
 
         {'sys':2,
          'numpy':2,
          'psychopy_ext':2,
          'nibabel':2,
+         'h5py':2,
          'mvpa2':2},
 
         {'sys':2,
@@ -312,6 +315,7 @@ reqs = [{'sys':2,
          'numpy':2,
          'psychopy_ext':2,
          'nibabel':2,
+         'h5py':2,
          'mvpa2':2,
          'IPython':2}]
 check_reqs(cmod, reqs)
