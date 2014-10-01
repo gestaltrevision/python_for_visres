@@ -272,29 +272,6 @@ check_reqs(cmod, reqs)
 
 # ***
 print
-print "Session: Natural image statistics"
-reqs = [{'sys':1,
-         'numpy':1,
-         'scipy':1,
-         'PIL':1,
-         'matplotlib':1},
-
-        {'sys':1,
-         'numpy':2,
-         'scipy':2,
-         'PIL':1,
-         'matplotlib':1},
-
-        {'sys':2,
-         'numpy':2,
-         'scipy':2,
-         'PIL':2,
-         'matplotlib':2,
-         'IPython':2}]
-check_reqs(cmod, reqs)
-
-# ***
-print
 print "Session: Multi-voxel pattern analysis"
 reqs = [{'sys':2,
          'numpy':2,
@@ -317,6 +294,29 @@ reqs = [{'sys':2,
          'nibabel':2,
          'h5py':2,
          'mvpa2':2,
+         'IPython':2}]
+check_reqs(cmod, reqs)
+
+# ***
+print
+print "Session: Natural image statistics"
+reqs = [{'sys':1,
+         'numpy':1,
+         'scipy':1,
+         'PIL':1,
+         'matplotlib':1},
+
+        {'sys':1,
+         'numpy':2,
+         'scipy':2,
+         'PIL':1,
+         'matplotlib':1},
+
+        {'sys':2,
+         'numpy':2,
+         'scipy':2,
+         'PIL':2,
+         'matplotlib':2,
          'IPython':2}]
 check_reqs(cmod, reqs)
 
